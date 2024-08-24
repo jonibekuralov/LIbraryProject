@@ -38,7 +38,11 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
 
-    'library'
+    #tashqi app
+    'rest_framework',
+
+    #ichki app
+    'library',
 ]
 
 MIDDLEWARE = [
